@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color:rgba(252, 203, 193, 0.925);
+}
+header .container{
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 20px 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header a{
+    color: #333;
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    align-items: center;
+}
+nav a{
+    margin-left: 20px;
+}
